@@ -1,16 +1,3 @@
-+++
-authors = ["xkaynit"]
-title = "Shutlock 2025 - Ice Cream"
-date = "2025-06-30"
-description = "Shutlock 2025 - Ice Cream"
-tags = [
-    "xkaynit",
-    "post",
-    "web"
-]
-# series = ["Theme Demo"]
-+++
-
 # Shutlock 2025
 
 ## Ice Cream 
